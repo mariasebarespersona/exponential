@@ -53,7 +53,7 @@ I design and ship **multi‑agent AI products** that automate documents, ops, an
 ### Some personal stuff
 - Spanish/British; based in **Madrid**.  
 - Outdoors (hiking/surf/padel), design & front‑end tinkering, community building.  
-- Languages: **EN/ES (native), FR (C1)**.
+- Languages: **EN/ES (native), FR (C2)**.
 
 ### My vision
 - Build and scale **agentic AI assistants** that handle real‑world paperwork and ops (real‑estate, agritech).  
@@ -65,7 +65,7 @@ I design and ship **multi‑agent AI products** that automate documents, ops, an
 
 - **LinkedIn:** https://www.linkedin.com/in/maria-sebares9  
 - **Email:** mariasebares9@gmail.com  
-- **GitHub (project):** https://github.com/mariasebarespersona/rama-app
+- **GitHub (project):** https://github.com/mariasebarespersona/tumai
 
 ---
 
