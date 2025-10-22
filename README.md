@@ -15,9 +15,9 @@ I design and ship **multi‑agent AI products** that automate documents, ops, an
 ### Main Achievements
 
 - **IBM – Consultant Data Scientist / AI Engineer (2022–2025):** Delivered agentic AI prototypes to production, integrated evals/cost tracking, and supported client teams—helping secure multi‑quarter renewals.
-- **RAMA Country Living (2024–present):** Multi‑agent assistant for property docs & payments. Python + FastAPI, OpenAI Agents SDK/LangGraph, Postgres/Supabase, embeddings/RAG. Natural‑language flows to **upload/retrieve/email** documents and trigger backend actions.  
+- **RAMA Country Living (present):** Multi‑agent assistant for property docs & payments. Python + FastAPI, OpenAI Agents SDK/LangGraph, Postgres/Supabase, embeddings/RAG. Natural‑language flows to **upload/retrieve/email** documents and trigger backend actions.  
   Repo: `github.com/mariasebarespersona/rama-app`
-- **FarmersAI (2025–):** Variant of RAMA for farm compliance & paperwork automation (Spain). Tool‑augmented chat for uploading, classifying, and retrieving docs; roadmap includes payments and CRM sync.
+- **FarmersAI (present):** Variant of RAMA for farm compliance & paperwork automation (Spain). Tool‑augmented chat for uploading, classifying, and retrieving docs; roadmap includes payments and CRM sync.
 - **Awards/Certs:** IBM Datathlon Winner 2024; AWS Cloud Practitioner; Lloyds ML award.
 
 ### Most‑Prideful Builds
